@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nikhil007man
+- 👀 I’m interested in reading
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking to collaborate on nvidia
+- 📫 How to reach me linkedin
